@@ -1,0 +1,10 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -315,7 +315,7 @@
+ 						<li class="active"><a href="#myPage">Home</a></li>
+ 						<li><a href="#about">About Us</a></li>
+ 						<li><a href="#openings">Current Opennings</a></li>
+-						<li><a href="#servicess">Services</a></li>
++						<li><a href="#services">Services</a></li>
+ 						<li><a href="#contact">Contact Us</a></li>
+ 					</ul>	
+ 				</div>
